@@ -7,11 +7,11 @@ const O0=$.skills,i=38,l="white",O6={languages:{title:"LANGUAGES",content:[{name
  $6=[
     	{
 			num: 3,
-			company: "Freelancer",
+			company: "Hargray Communications",
 			role: "Freelance Web Developer (with 3D)",
 			location: "UNITED STATES",
 			from: "AUG 2022",
-			to: "PRESENT",
+			to: "SEP 2025",
 			highlights: [
 			{
 				title: "Frontend Web Development",
@@ -38,7 +38,7 @@ const O0=$.skills,i=38,l="white",O6={languages:{title:"LANGUAGES",content:[{name
 
 		{
 			num: 2,
-			company: "Companion Data Services",
+			company: "Bridgetree",
 			role: "Data-Analysis & Web Specialist",
 			location: "UNITED STATES",
 			from: "JULY 2018",
@@ -69,7 +69,7 @@ const O0=$.skills,i=38,l="white",O6={languages:{title:"LANGUAGES",content:[{name
 
 		{
 			num: 1,
-			company: "-	Integrated Biometrics",
+			company: "Integrated Biometrics",
 			role: "WEB DEVELOPER",
 			location: "UNITED STATES",
 			from: "JAN 2012",

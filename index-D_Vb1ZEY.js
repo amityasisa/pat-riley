@@ -657,11 +657,11 @@ import{r as C,c as q5,D as A0,V as y,O as v5,P as M5,a as $0,B as q0,I as K5,F a
 		g5 = [
 		{
 			num: 3,
-			company: "Freelancer",
+			company: "Hargray Communications",
 			role: "Freelance Web Developer (with 3D)",
 			location: "UNITED STATES",
 			from: "AUG 2022",
-			to: "PRESENT",
+			to: "SEP 2025",
 			highlights: [
 			{
 				title: "Frontend Web Development",
@@ -688,7 +688,7 @@ import{r as C,c as q5,D as A0,V as y,O as v5,P as M5,a as $0,B as q0,I as K5,F a
 
 		{
 			num: 2,
-			company: "Companion Data Services",
+			company: "Bridgetree",
 			role: "Data-Analysis & Web Specialist",
 			location: "UNITED STATES",
 			from: "JULY 2018",
@@ -719,7 +719,7 @@ import{r as C,c as q5,D as A0,V as y,O as v5,P as M5,a as $0,B as q0,I as K5,F a
 
 		{
 			num: 1,
-			company: "-	Integrated Biometrics",
+			company: "Integrated Biometrics",
 			role: "WEB DEVELOPER",
 			location: "UNITED STATES",
 			from: "JAN 2012",
